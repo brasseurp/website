@@ -1,6 +1,6 @@
 
-title: Pierre Brasseur | Sociologue
-email: pierre.brasseur@ulb.be
+title: "Pierre Brasseur | Sociologue"
+email: "pierre.brasseur@ulb.be"
 description:   Sociologie 
 twitter_username: p_brasseur
 github_username: brasseurp
@@ -18,11 +18,8 @@ paginate_path: /page:num/
 
 include:
   - _pages
-<<<<<<< Updated upstream
-  
+
 exclude: 
-=======
->>>>>>> Stashed changes
   - Gemfile
   - Gemfile.lock
   - node_modules
