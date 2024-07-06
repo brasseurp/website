@@ -39,7 +39,7 @@ plugins:
 
 author:
   name   : "Pierre Brasseur"
-  avatar : "_data/bio-photo.jpg/"
+#  avatar : "_data/bio-photo.jpg/"
   bio    : "Sociologue"
   links:
     - label: "Website"
