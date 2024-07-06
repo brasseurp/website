@@ -1,8 +1,11 @@
 
-title: Pierre Brasseur
+title: Pierre Brasseur | Sociologue
 email: pierre.brasseur@ulb.be
-description: >- # this means to ignore newlines until "baseurl:"
-  Sociologie
+description:   Sociologie 
+<<<<<<< Updated upstream
+=======
+baseurl: https://brasseurp.github.io/website/
+>>>>>>> Stashed changes
 twitter_username: p_brasseur
 github_username: brasseurp
 minimal_mistakes_skin: default
@@ -15,12 +18,15 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: MC
+# timezone: MC
 
 include:
   - _pages
-
-exclude:
+<<<<<<< Updated upstream
+  
+exclude: 
+=======
+>>>>>>> Stashed changes
   - Gemfile
   - Gemfile.lock
   - node_modules
@@ -39,7 +45,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Pierre Brasseur "
+  name   : "Pierre Brasseur"
   avatar : "bio-photo.jpg"
   bio    : "Sociologue"
   links:
@@ -75,11 +81,20 @@ defaults:
       type: posts
     values:
       layout: single
+<<<<<<< Updated upstream
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+=======
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
+>>>>>>> Stashed changes
       related: true
+      show_date: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -87,6 +102,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+
 
 category_archive:
   type: liquid
