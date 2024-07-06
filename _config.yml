@@ -14,7 +14,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-# timezone: MC
+timezone: MC
 
 include:
   - _pages
@@ -39,7 +39,7 @@ plugins:
 
 author:
   name   : "Pierre Brasseur"
-  avatar : "_data/bio-photo.jpg"
+  avatar : "_data/bio-photo.jpg/"
   bio    : "Sociologue"
   links:
     - label: "Website"
