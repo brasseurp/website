@@ -74,17 +74,14 @@ defaults:
       type: posts
     values:
       layout: single
-<<<<<<< Updated upstream
       author_profile: false
       read_time: false
       comments: false
       share: false
-=======
       author_profile: true
       read_time: false
       comments: true
       share: true
->>>>>>> Stashed changes
       related: true
       show_date: true
 
