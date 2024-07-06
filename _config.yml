@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Pierre Brasseur "
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sociologie"
+  avatar : "bio-photo.jpg"
+  bio    : "Sociologue"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
