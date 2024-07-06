@@ -1,7 +1,7 @@
 
 title: "Pierre Brasseur | Sociologue"
 email: "pierre.brasseur@ulb.be"
-description:   Sociologie 
+description:  Sociologue 
 twitter_username: p_brasseur
 github_username: brasseurp
 minimal_mistakes_skin: default
@@ -39,7 +39,7 @@ plugins:
 
 author:
   name   : "Pierre Brasseur"
-  avatar : "bio-photo.jpg"
+  avatar : "/_data/bio-photo.jpg"
   bio    : "Sociologue"
   links:
     - label: "Website"
