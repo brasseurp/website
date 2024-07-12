@@ -5,21 +5,24 @@ title: "A propos"
 
 # Bienvenue sur la page de Pierre Brasseur
 
-Pierre Brasseur est chargé de cours de sociologie à l’Université libre
-de Bruxelles et membre du centre de recherche METICES. Avec un doctorat
-en sociologie de l’Université de Lille, il se spécialise dans
-l’assistance sexuelle. Ses cours et recherches à l'ULB explorent la
-sociologie de la sexualité, du genre et de la santé. Il prévoit aussi
-d’étudier le travail en milieu protégé, la sexualité au travail et les
-sciences sociales de l’enfance.
+![](images/12821802-RJtS6tR2.jpeg){width="204"}
 
-Sur le campus de Charleroi, Pierre Brasseur propose plusieurs cours. Il
-enseigne la Théorie du travail social pour le Master en sciences du
-travail, spécialité « travail social et non marchand ». Il donne aussi
-le cours Mobilisations, genre et identités professionnelles dans le même
-programme. À partir de 2024, il ajoutera à son enseignement les cours
-Méthodes de recherche en sciences humaines et Travail, genre et
-sexualité.
+Pierre Brasseur est membre du centre de recherche
+[METICES](https://metices.phisoc.ulb.be/corps-academique/brasseur-pierre).
+Depuis septembre 2024, il occupe le poste de professeur à l'Université
+Libre de Bruxelles, où il se consacre à l'enseignement et à la recherche
+en sociologie, avec un focus particulier sur la sexualité, le sexe, le
+handicap et la santé.
+
+Avant son arrivée à l'ULB, il a joué un rôle significatif au sein de
+l’Association française de sociologie, notamment en dirigeant le groupe
+« [éthique
+professionnelle](https://afs-socio.fr/groupe-ethique-professionnelle/) »
+et en coordonnant les actions contre les [violences sexistes et
+sexuelles](https://afs-socio.fr/charte-de-lassociation-francaise-de-sociologie-pour-lutter-contre-les-violences-sexistes-et-sexuelles/).
+De plus, il a assumé la responsabilité du réseau thématique «
+[recherches en sciences sociales sur la
+sexualité](https://afs-socio.fr/rt/rt28/) ».
 
 Les recherches de Pierre Brasseur se concentrent sur divers domaines. Il
 s'intéresse aux politiques et à la régulation du genre et de la
