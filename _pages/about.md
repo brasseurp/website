@@ -5,7 +5,7 @@ title: "A propos"
 
 # Bienvenue sur la page de Pierre Brasseur
 
-![](images/12821802-RJtS6tR2.jpeg){width="204"}
+![](images/12821802-RJtS6tR2.jpeg){width="264"}
 
 Pierre Brasseur est membre du centre de recherche
 [METICES](https://metices.phisoc.ulb.be/corps-academique/brasseur-pierre).
