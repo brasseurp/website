@@ -3,7 +3,7 @@ permalink: /_pages/enseignements/
 title: "Enseignements"
 ---
 
--   [Théorie du travailsocial](https://www.ulb.be/fr/programme/soca-d495-1)
+-   [Théorie du travail social](https://www.ulb.be/fr/programme/soca-d495-1)
 
 -   [Mobilisations, genres et identités professionnelles](https://www.ulb.be/fr/programme/soca-d554-1)
 
