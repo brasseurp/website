@@ -1,9 +1,0 @@
-main:
-  - title: "A propos"
-    url: _pages/about/
-  - title: "Recherches"
-    url: _pages/recherches/
-  - title: "Publications"
-    url: _pages/publications/
-  - title: "Enseignements"
-    url: _pages/enseignements/
